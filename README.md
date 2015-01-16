@@ -1,0 +1,2 @@
+# likecoin
+LikeCoin Crypto Currency
