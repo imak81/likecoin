@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 EarthCoin
 =============
 
@@ -79,3 +80,7 @@ Cryptocurrency
 ----------------
 
 A cryptocurrency is a digital medium of exchange. The first cryptocurrency to begin trading was Bitcoin in 2009. Since then, numerous cryptocurrencies, such as Earthcoin, have become available. Fundamentally, cryptocurrencies are specifications regarding the use of currency which seek to incorporate principles of cryptography to implement a distributed, decentralized and secure information economy. When comparing cryptocurrencies to fiat money, the most notable difference is in how no group or individual may accelerate, stunt or in any other way significantly abuse the production of money. Instead, only a certain amount of cryptocurrency is produced by the entire cryptocurrency system collectively, at a rate which is bounded by a value both prior defined and publicly known. Dozens of cryptocurrency specifications have been defined, and most are similar to and derived from the first fully implemented cryptocurrency protocol, Bitcoin. Within cryptocurrency systems, the safety, integrity, and balance of all ledgers is ensured by "miners", who are for the most part, general members of the public, actively maintaining and protecting the cryptocurrency network for a chance to receiving a randomly distributed small fee. 
+=======
+# likecoin
+LikeCoin Crypto Currency
+>>>>>>> d49b2c06ff28583deed316229b3709d44811bb3a
